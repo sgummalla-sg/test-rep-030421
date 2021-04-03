@@ -1,3 +1,4 @@
 I  am on my child branch and midified this line on master branch
+I  am on my child branch and midified this line on child branch
 
 Made changes in the files on Master branch
